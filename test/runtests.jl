@@ -42,3 +42,6 @@ end
 @testset "minihallway" begin
     include("minihallway.jl")
 end
+@testset "hallway" begin
+    include("hallway.jl")
+end
