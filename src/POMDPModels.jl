@@ -118,4 +118,8 @@ include("MiniHallway.jl")
 export
     MiniHallway
 
+include("Hallway.jl")
+export
+    Hallway
+
 end # module
